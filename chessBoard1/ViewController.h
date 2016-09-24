@@ -9,7 +9,12 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+{
 
+    UILabel *blackLabel1;
+    
+    UILabel *whiteLabel1;
+}
 
 @end
 
